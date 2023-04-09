@@ -1,0 +1,13 @@
+.container {
+  border: 1px solid red;
+  margin-top: 4.62rem;
+  margin-bottom: 16.14rem;
+  margin-left: 18.9rem;
+  margin-right: 26.82rem;
+}
+.heading {
+  color: var(--textcolor);
+  border: 1px solid green;
+  height: 44px;
+  width: 234px;
+}
